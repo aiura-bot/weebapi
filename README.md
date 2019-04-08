@@ -17,7 +17,7 @@
 
 **2. From GitHub**
 
-`pip install -U git+https://github.com/AndyTempel/weebapi#egg=weebapi`
+`pip install -U git+https://github.com/aiura-bot/weebapi#egg=weebapi`
 
 ### Usage:
 
